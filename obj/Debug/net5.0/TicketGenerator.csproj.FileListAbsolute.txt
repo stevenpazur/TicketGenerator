@@ -1,0 +1,16 @@
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\bin\Debug\net5.0\TicketGenerator.exe
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\bin\Debug\net5.0\TicketGenerator.deps.json
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\bin\Debug\net5.0\TicketGenerator.runtimeconfig.json
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\bin\Debug\net5.0\TicketGenerator.runtimeconfig.dev.json
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\bin\Debug\net5.0\TicketGenerator.dll
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\bin\Debug\net5.0\ref\TicketGenerator.dll
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\bin\Debug\net5.0\TicketGenerator.pdb
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\obj\Debug\net5.0\TicketGenerator.csprojAssemblyReference.cache
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\obj\Debug\net5.0\TicketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\obj\Debug\net5.0\TicketGenerator.AssemblyInfoInputs.cache
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\obj\Debug\net5.0\TicketGenerator.AssemblyInfo.cs
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\obj\Debug\net5.0\TicketGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\obj\Debug\net5.0\TicketGenerator.dll
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\obj\Debug\net5.0\ref\TicketGenerator.dll
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\obj\Debug\net5.0\TicketGenerator.pdb
+C:\Users\Lntinfotech\Documents\DotNet\TicketGenerator\obj\Debug\net5.0\TicketGenerator.genruntimeconfig.cache
