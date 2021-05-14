@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oSjZ8BBZnxRTLD9+Zts9+QyUOwYngwk93Rx/+QCYG21vY/xUz+FUn33lINS5NhUKBB2O82nhG4HscPGGQ4hHwA==",
+  "dgSpecHash": "ifd1I+x7vwKigM0JyNXgQ+e75P/8jbpIZAePbNcLfK23jft7q0nei12lU724YPHg2K4Nrz0DlVs47umlphFPnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lntinfotech\\Documents\\DotNet\\TicketGenerator\\TicketGenerator.csproj",
+  "projectFilePath": "C:\\Users\\Lntinfotech\\Documents\\DotNet\\TicketGenerator\\ticketgenerator\\TicketGenerator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

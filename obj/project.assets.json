@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lntinfotech\\Documents\\DotNet\\TicketGenerator\\TicketGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\Lntinfotech\\Documents\\DotNet\\TicketGenerator\\ticketgenerator\\TicketGenerator.csproj",
       "projectName": "TicketGenerator",
-      "projectPath": "C:\\Users\\Lntinfotech\\Documents\\DotNet\\TicketGenerator\\TicketGenerator.csproj",
+      "projectPath": "C:\\Users\\Lntinfotech\\Documents\\DotNet\\TicketGenerator\\ticketgenerator\\TicketGenerator.csproj",
       "packagesPath": "C:\\Users\\Lntinfotech\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lntinfotech\\Documents\\DotNet\\TicketGenerator\\obj\\",
+      "outputPath": "C:\\Users\\Lntinfotech\\Documents\\DotNet\\TicketGenerator\\ticketgenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lntinfotech\\AppData\\Roaming\\NuGet\\NuGet.Config"
